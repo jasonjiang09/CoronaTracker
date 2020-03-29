@@ -6,7 +6,7 @@
     "express": "~4.7.2",
     "holderjs": "^2.9.6",
     "jsonwebtoken": "^5.0.2",
-    "method-override": "~2.1.2",
+    "method-override": "~2.3.10",
     "mongoose": "~4.1.0",
     "morgan": "~1.2.2"
   },
